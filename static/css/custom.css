@@ -1,0 +1,10 @@
+.sidebar-heading {
+	margin-top: 20px;
+}
+.topbar.navbar-light .navbar-nav .nav-item .nav-link {
+	color: #9c9c9c;
+}
+
+select#sampleSelect {
+	min-height: 380px;
+}
